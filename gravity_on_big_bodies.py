@@ -92,4 +92,4 @@ while True:
 
         else: 
             running = False
-            time = wtext(text="Time of collusion = "+str(t)+" seconds")
+            time = wtext(text="Time of collision = "+str(t)+" seconds")
