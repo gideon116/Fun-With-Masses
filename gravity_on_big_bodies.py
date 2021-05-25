@@ -1,7 +1,7 @@
 from vpython import *
 
 
-# set scene with
+# set scene width
 scene.width = 1650
 scene.height = 500
 scene.range = 500
